@@ -13,7 +13,7 @@ Clone the repository:
 
 ` git clone https://github.com/SabaKarimi/ROCK_PAPER_SCISSOR_GAME.git `
 
-Enter the repository:
+Enter into the repository:
 
 ` cd ROCK_PAPER_SCISSOR_GAME `
 
